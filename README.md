@@ -1,3 +1,3 @@
 # Barbería Alura
 
-Proyecto de prueba usando HTML y CSS
+Proyecto de prueba usando HTML y CSS.
